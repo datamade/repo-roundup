@@ -7,6 +7,7 @@ def get_readme_list():
     repos_list = []
 
     fields = ['name',
+              'html_url',
               'description',
               'homepage',
               'stargazers_count',
