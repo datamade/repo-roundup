@@ -99,3 +99,190 @@ python-metar,a python package that parses coded METAR weather reports.,https://s
 dashboard,Dashboard for The OpenElections Project.,,0,0,Python,2015-04-13T17:25:04Z,2015-04-13T17:28:27Z
 data-making-guidelines,":blue_book: Making Data, the DataMade Way",,56,6,HTML,2015-04-13T20:46:34Z,2016-11-30T06:47:52Z
 simplecosine,simple cosine distance,,0,1,Python,2015-04-15T14:08:41Z,2016-02-13T14:17:28Z
+clearstreets-processing,Converts GPX files to OSM (Open Street Map) and snaps lines to city street grid,clearstreets.org,5,1,Python,2012-02-01T23:34:07Z,2016-12-19T19:46:16Z
+dedupe,":id: A python library for accurate and scaleable fuzzy matching, record deduplication and entity-resolution.",https://github.com/datamade/dedupe,1062,168,Python,2012-04-20T14:57:36Z,2016-12-22T22:08:24Z
+food-inspections,Analysis of durations between food inspections,,1,0,Python,2012-06-13T00:03:52Z,2016-09-06T19:09:16Z
+second-city-zoning,"2nd City Zoning is an interactive map that lets you find out how your building is zoned, learn where to locate your business and explore zoning patterns throughout Chicago",https://secondcityzoning.org,19,10,HTML,2012-08-14T22:32:35Z,2016-06-16T22:11:41Z
+illinois-district-map,Illinois Redistricted: Stories from the 2010 Illinois redistricting process,http://illinois-district-map.herokuapp.com/,1,1,JavaScript,2012-12-11T00:21:46Z,2013-10-02T05:06:26Z
+clearstreets-web,Website that tracks where Chicago plows have been during a snowstorm.,http://clearstreets.org,5,7,HTML,2012-12-20T08:15:26Z,2016-01-11T14:54:48Z
+look-at-washington,Budget transparency site for the State of Washington,,3,1,JavaScript,2013-03-12T20:28:14Z,2014-05-16T05:34:19Z
+chicago-atlas,The Chicago Health Atlas is a place where you can view citywide information about health trends and take action near you to improve your own health.,http://www.chicagohealthatlas.org/,1,0,Ruby,2013-04-04T14:34:36Z,2014-07-03T18:57:21Z
+chicago-cube,"Plant a daisy, share a photo, watch it grow. A GFRY design objects studio project by Amarinh Kongmanivong.",http://chicagocube.org/,0,0,Ruby,2013-04-08T16:12:32Z,2014-03-05T20:17:09Z
+micro-boundaries,"A game where you find a home for five beneficial bacteria by interpreting their needs, exploring your city and taking photos with Instagram. GFRY design object studio project by Moe Beitiks and Brooke Collins.",http://microboundaries.com/,0,1,Ruby,2013-04-15T22:48:57Z,2014-03-05T20:38:26Z
+alderman-factors,Estimating the poltical structure of the Chicago council from campaign contributions,http://alderman-factors.herokuapp.com/,2,0,JavaScript,2013-04-18T20:52:54Z,2015-03-10T16:49:39Z
+mote-0-bike,"A bicycle-based sensing and data gathering project, intended to better map the urban environment as it is experienced by the bicyclist and pedestrian. GFRY design objects studio project by Colin Hutton",http://mote-0-bike.herokuapp.com/,1,0,JavaScript,2013-04-22T18:09:37Z,2016-01-14T08:55:05Z
+petl,Python Extract Transform and Load Tables of Data,,0,0,Python,2013-05-31T03:08:41Z,2013-05-31T03:08:41Z
+csvdedupe,Command line tool for deduplicating CSV files,,129,27,Python,2013-07-11T14:23:33Z,2016-12-22T03:16:07Z
+leaflet-searchable-map-template,,,2,1,JavaScript,2013-07-25T04:54:57Z,2016-08-30T16:06:52Z
+csvkit,"A suite of utilities for converting to and working with CSV, the king of tabular file formats.",http://csvkit.rtfd.org/,1,0,Prolog,2013-08-14T16:00:39Z,2014-09-09T13:24:22Z
+where-we-work,visualizing Chicago employment data,wherewework.org,1,5,JavaScript,2013-08-21T03:34:35Z,2014-05-28T18:53:27Z
+macoupin-budget,"Budget visualization for Macoupin County, IL. Based on Look at Cook",http://macoupinbudget.com,3,1,JavaScript,2013-08-30T18:42:50Z,2016-12-12T21:16:29Z
+legistar-people,Using the legistar-scraper to get a list of elected officials,,1,0,Python,2013-09-17T16:54:45Z,2014-09-20T16:36:42Z
+chicago-elections,API for local chicago election,http://chicagoelections.datamade.us/elections/22/,0,0,Python,2013-10-03T18:57:18Z,2016-09-07T15:25:19Z
+war-chest,API for Chicago Aldermen's Campaign Funds,http://chicagoelections.datamade.us/war-chest/,1,0,Python,2013-10-03T18:59:23Z,2016-09-07T19:24:41Z
+pupa-legistar,Pupa compliant python library for scraping Legistar sites -- legislation management sites hosted by by Granicus.,,1,0,Python,2013-10-18T23:12:56Z,2015-10-12T14:53:34Z
+imago,Open Civic Data API,,1,0,Python,2013-10-24T19:20:50Z,2016-08-09T21:15:00Z
+school-report-cards,Tools for parsing annual school report card data from the state of Illinois,,4,1,Makefile,2013-10-24T20:14:42Z,2016-11-30T07:04:07Z
+openelections-core,"Core repo for election results data acquisition, transformation and output.",,1,0,Python,2013-11-08T17:38:21Z,2015-04-13T15:50:50Z
+fast_pass,Las Vegas Development Opportunity Finder,,0,0,JavaScript,2013-11-22T02:20:55Z,2013-11-22T02:20:56Z
+wopr-data,Deprecated: Scripts for creating and updating datasets for plenario,,2,2,Python,2013-12-16T21:06:36Z,2014-06-17T14:57:27Z
+wopr-api-explorer,Deprecated: merged in to plenario,https://github.com/datamade/plenario,0,1,CSS,2014-01-11T01:23:02Z,2014-06-17T14:56:53Z
+crimeapi,An attempt at a JSONP endpoint for crime data ,,0,0,Python,2014-02-04T21:20:21Z,2014-02-13T15:19:00Z
+crimearound.us, :police_car: A tool for browsing crime reports from the Chicago Police Department.,http://crimearound.us,5,3,JavaScript,2014-02-04T21:20:40Z,2015-08-25T21:55:28Z
+dedupe-load-tester,Testing how Web Deduper performs under stress,,0,2,Python,2014-02-07T19:25:15Z,2014-03-12T20:32:56Z
+summer_of_code,Project ideas for Google Summer of Code 2014,,0,2,,2014-02-14T16:14:19Z,2015-01-14T03:48:05Z
+school-boundary-merge,Scripts and source data to create one file with all the attendance boundaries for all public schools in Chicago,,2,1,Python,2014-02-15T23:18:13Z,2016-05-05T22:13:02Z
+address-matching,Python script for matching a list of messy addresses against a gazetteer using dedupe.,,15,5,Python,2014-02-17T20:11:57Z,2016-10-12T13:18:32Z
+naics-api,Basic API to return NAICS codes and information,,1,0,Python,2014-03-03T22:44:27Z,2014-10-23T18:14:51Z
+municipal-scrapers-us,Scrapers for US municipal governments.,,2,1,Python,2014-03-04T22:07:47Z,2015-05-07T17:11:22Z
+FusionTable-Map-2-layers,"Search-and-Filter Map (with 2 layers) that draws data from Google Fusion Tables, based on template by Derek Eder",http://datamade.github.io/FusionTable-Map-2-layers/,0,0,JavaScript,2014-03-13T16:12:11Z,2014-06-25T22:21:52Z
+pylbfgs,Python/Cython wrapper for liblbfgs,,0,1,C,2014-03-15T03:39:42Z,2016-03-15T19:42:48Z
+large-lots,:seedling: The City of Chicago is selling vacant residential lots for $1. Here's how you get one.,http://largelots.org/,11,6,JavaScript,2014-03-26T20:34:00Z,2016-11-28T21:09:27Z
+ihs-housing-stock,Template for DePaul Institute for Housing Studies MapBox maps,http://housing-stock.housingstudies.org/,1,3,JavaScript,2014-03-28T16:20:42Z,2016-04-08T19:00:21Z
+dedupe-examples,:link: Examples for using the dedupe library,,68,37,Python,2014-04-02T13:04:28Z,2016-12-20T07:27:50Z
+fatalities-map,Searchable map of pedestrian fatalities in the US from 2003 to 2012 as part of Smart Growth America's Dangerous by Design 2014 report.,http://www.smartgrowthamerica.org/research/dangerous-by-design/dbd2014/fatalities-map/,0,1,JavaScript,2014-04-15T01:11:17Z,2014-06-02T16:49:40Z
+FusionTable-Map-Template-2-Layers,Two layer Searchable Map Template using Google Maps and Fusion Tables,http://datamade.github.io/FusionTable-Map-Template-2-Layers/,0,0,JavaScript,2014-04-15T17:56:16Z,2014-05-13T19:48:38Z
+gary-counts-hhmap,"Map of the Hardest Hit properties in the City of Gary, IN",http://datamade.github.io/gary-counts-hhmap/,0,0,CSS,2014-04-23T17:23:06Z,2014-07-21T18:36:05Z
+chicago-lots,Explore City-owned lots in Chicago,http://chicagolots.org,2,4,JavaScript,2014-04-24T15:14:14Z,2014-11-25T04:03:01Z
+wopr-grid,Deprecated: merged in to plenario,https://github.com/datamade/plenario,0,0,CSS,2014-04-26T00:50:00Z,2014-06-17T14:56:42Z
+seed,Standard Energy Efficiency Database,,0,0,Groovy,2014-04-30T21:53:23Z,2014-05-01T14:27:19Z
+eitc-map,Earned Income Tax Credit Map for Voices for Illinois Children,http://eitcworks.org/,1,2,JavaScript,2014-05-07T21:11:02Z,2016-11-30T06:49:19Z
+opmaalinger,Completed development projects in Denmark,http://datamade.github.io/opmaalinger/,2,0,JavaScript,2014-05-14T16:50:25Z,2015-05-04T16:28:28Z
+large-lots-staging,Staging site for LargeLots.org,,0,0,JavaScript,2014-05-21T19:17:38Z,2014-06-16T22:23:21Z
+chicagoelections,Scraper for Chicago Elections,,0,0,,2014-05-27T17:26:52Z,2014-06-07T16:32:36Z
+staging.crimearound.us,Staging site for CrimeAround.us,,2,0,JavaScript,2014-05-28T21:47:28Z,2014-06-06T22:31:12Z
+election-money,Election Money - Bulk Downloads from the Illinois State Board of Elections,http://electionmoney.org,1,2,HTML,2014-06-06T02:11:55Z,2015-07-22T17:23:35Z
+lobbying_federal_domestic,Public domain data collectors for federal domestic lobbying disclosures. https://github.com/unitedstates-influence/lobbying-federal-domestic/wiki,,0,0,Python,2014-06-06T14:24:46Z,2014-08-06T14:02:46Z
+madedata,MadeData in S3 buckets from DataMade ,,1,1,Python,2014-06-09T17:31:31Z,2015-05-18T04:16:20Z
+lascaux,:globe_with_meridians: Web API for printing high resolution PDF maps,http://lascaux.datamade.us/,5,4,Python,2014-06-23T22:02:34Z,2016-09-19T16:08:06Z
+name-cleaver,"Parser and standardizer for politician, individual and organization names.",,2,0,,2014-07-08T14:09:57Z,2014-11-11T18:59:26Z
+usaddress,:us: a python library for parsing unstructured address strings into address components,http://parserator.datamade.us/usaddress,511,69,Python,2014-07-17T19:22:46Z,2016-12-23T03:44:27Z
+bigeasy-budget,:chart_with_upwards_trend: Budget visualization for the City of New Orleans. Based on Look at Cook.,,3,1,JavaScript,2014-07-18T16:13:21Z,2016-03-21T16:43:31Z
+geomancer,:dizzy: Open source tool to help journalists easily mash up data based on shared geography.,http://geomancer.io/,4,1,Python,2014-08-07T22:00:48Z,2015-10-21T22:23:25Z
+pdf-filler,PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empowers web developers to use browser-based forms and modern web standards to facilitate the collection of information.  ,,3,0,,2014-08-10T04:14:24Z,2015-11-10T16:36:02Z
+dedupe-client,Clients for the dedupe API,,0,0,,2014-08-11T14:37:30Z,2014-08-11T14:37:31Z
+bravest-map-ever,"Searchable map highlighting places that inspire, and encourage bravery and kindness in your community for the Born This Way Foundation.",http://datamade.github.io/bravest-map-ever/,2,0,JavaScript,2014-08-11T16:55:04Z,2016-12-14T01:37:21Z
+ChicagoVacantBuildingData,Exploration of data from the City of Chicago's open data portal,,0,1,,2014-08-13T00:57:55Z,2014-08-13T00:57:44Z
+pykalman,"Kalman Filter, Smoother, and EM Algorithm for Python",,0,0,,2014-08-25T13:53:39Z,2014-08-04T08:27:14Z
+parole-hearing-data,,http://www.parolehearingdata.org/,0,0,Python,2014-08-28T19:23:56Z,2014-08-28T19:33:31Z
+moman,Fork of https://bitbucket.org/jpbarrette/moman,,1,0,Python,2014-08-29T04:10:45Z,2015-11-20T18:08:33Z
+open-data-etl-utility-kit,Use Pentaho's open source data integration tool (Kettle) to create Extract-Transform-Load (ETL) processes to update a Socrata open data portal.,,0,0,JavaScript,2014-09-24T22:26:43Z,2014-09-24T22:47:59Z
+parserator,:bookmark: A toolkit for making domain-specific probabilistic parsers,http://parserator.datamade.us,386,28,Python,2014-10-16T03:54:11Z,2016-12-23T00:06:37Z
+school-search-tool-ah,school search tool for Achieve Hartford,,0,0,JavaScript,2014-10-20T18:52:14Z,2014-10-21T17:04:48Z
+probablepeople,:family: a python library for parsing unstructured western names into name components.,http://parserator.datamade.us/probablepeople,131,28,Python,2014-11-06T16:31:00Z,2016-12-22T21:11:42Z
+hcluster,Hierarchical Clustering Algorithms,,3,3,Python,2014-11-06T17:28:23Z,2016-11-23T16:24:20Z
+mecharat,Robot Assisted Transcriptions,,8,0,Python,2014-11-14T14:24:46Z,2015-11-10T16:30:54Z
+open-tracking-tools,"Open source Java library for on-line vehicle tracking, path estimation and parameter learning.",,0,0,Java,2014-11-14T20:59:43Z,2014-11-14T20:59:44Z
+address-matching-api,,,1,0,,2014-11-17T17:56:43Z,2014-12-14T01:20:45Z
+affinegap,:triangular_ruler: A Cython implementation of the affine gap string distance,,11,2,Python,2014-11-19T18:53:54Z,2016-10-13T12:49:48Z
+rlr,Regularized Logistic Regression,,3,3,Python,2014-11-19T23:52:43Z,2016-09-25T11:43:04Z
+categorical-distance,Compare categorical variables,,1,1,Python,2014-11-20T17:48:53Z,2016-06-10T01:10:01Z
+open-ee-meter,"Data analysis & visualization of energy savings projects, to ultimately empower utilities and contractors to improve the efficacy of energy savings programs.",,4,1,Python,2014-11-25T22:24:36Z,2016-02-05T11:02:50Z
+tribapps-gis,A repo storing our various GIS files we would like to share.,,0,0,Python,2014-12-02T16:00:05Z,2014-12-02T16:00:07Z
+lodes-processor,A command line utility for transmogrifying LODES data sets.,,0,0,Java,2014-12-13T16:30:07Z,2014-12-13T16:30:58Z
+where-we-work-api,:briefcase: Scripts and API to process and analyze LODES data for where-we-work,http://wherewework.org,2,0,Python,2014-12-16T19:28:53Z,2015-09-11T19:04:38Z
+ny-budget, :bar_chart: an explorable budget viz for New York state,http://ny-budget.datamade.us,9,3,JavaScript,2014-12-22T17:36:05Z,2016-11-06T21:00:35Z
+dedupe-variable-address,Address Variable Type for dedupe,,2,2,Python,2014-12-30T04:27:40Z,2016-03-24T15:20:28Z
+mobility-app,"Digital tool to increase housing mobility to higher-opportunity areas, designed with Connecticut Open Communities Alliance",http://ctoca.org,0,0,CSS,2015-01-08T18:22:29Z,2015-01-13T16:04:28Z
+dedupe-variable-name,name variable type for dedupe,,1,2,Python,2015-01-22T23:19:39Z,2016-03-24T15:23:51Z
+cafha-opportunity-map,map of opportunity index by census tract for the Chicago Area Fair Housing Alliance,,0,1,JavaScript,2015-01-26T20:33:42Z,2016-01-14T16:39:31Z
+macoupin-directory,"a service directory for Macoupin County, Illinois",,0,2,CSS,2015-02-02T20:58:38Z,2016-02-04T02:14:02Z
+flask_app_template,Generic Flask app template with basic database setup and user login,,1,1,Python,2015-02-09T16:32:18Z,2015-02-09T17:39:43Z
+liblevenshtein,Various utilities regarding Levenshtein transducers.,http://dylon.github.com/liblevenshtein,0,0,,2015-02-10T16:58:46Z,2015-02-10T16:58:46Z
+canonicalize,Canoicalize a Cluster of Records,,0,1,Python,2015-02-12T22:12:38Z,2015-02-12T22:56:05Z
+million-dollar-blocks, :moneybag: an interactive viz about incarceration spending in Chicago,http://chicagosmilliondollarblocks.com,26,5,JavaScript,2015-02-20T22:13:19Z,2016-04-29T01:17:03Z
+flask-track-usage,Basic metrics tracking for the Flask framework.,,0,0,Python,2015-03-11T19:56:24Z,2015-03-11T19:56:25Z
+snowbook,chicago snowbook,,0,0,,2015-03-12T15:35:19Z,2015-03-12T15:58:39Z
+whats-in-a-name,Socio demographics from names,,0,0,,2015-03-14T13:46:47Z,2015-03-14T13:46:47Z
+parseratorvariable,Base class for dedupe variables for parsed fields,,1,0,Python,2015-03-25T20:12:18Z,2016-07-03T08:08:46Z
+python-metar,a python package that parses coded METAR weather reports.,https://sourceforge.net/projects/python-metar/,0,0,Python,2015-04-02T14:09:39Z,2015-04-02T14:35:40Z
+dashboard,Dashboard for The OpenElections Project.,,0,0,Python,2015-04-13T17:25:04Z,2015-04-13T17:28:27Z
+data-making-guidelines,":blue_book: Making Data, the DataMade Way",,56,6,HTML,2015-04-13T20:46:34Z,2016-11-30T06:47:52Z
+simplecosine,simple cosine distance,,0,1,Python,2015-04-15T14:08:41Z,2016-02-13T14:17:28Z
+sqldedupe,SQLAlchemy + Dedupe,,0,0,,2015-04-15T19:03:11Z,2015-04-15T19:03:11Z
+codedeploy-test,Just testing this code deploy stuff,,0,0,Shell,2015-04-20T20:26:23Z,2015-04-21T21:16:42Z
+highered,CRF Edit Distance,,2,1,Python,2015-04-29T13:55:05Z,2016-05-08T21:49:47Z
+eitc-map-staging,staging site for EITC Works!,,0,0,JavaScript,2015-05-01T19:11:33Z,2015-05-08T04:53:39Z
+yournextmp-popit,:ballot_box_with_check: An experimental front-end to PopIt for 2015 GE candidates,http://yournextmp.mysociety.org,0,0,Python,2015-05-01T21:37:52Z,2016-01-14T15:14:30Z
+pyhacrf,Hidden alignment conditional random field for classifying string pairs.,,2,2,Python,2015-05-04T19:50:42Z,2016-04-18T19:05:54Z
+ihs-price-index,Price Index Visualization for The DePaul Institute for Housing Studies,,2,0,JavaScript,2015-05-05T14:12:04Z,2016-09-12T12:43:33Z
+databot,:crystal_ball: Slackbot for datamade,,0,0,Python,2015-05-08T13:42:26Z,2015-10-21T22:12:44Z
+chicago-openelex,Chicago Open Election Scraper,,2,1,Python,2015-05-18T21:41:53Z,2016-11-07T23:03:13Z
+chi-councilmatic,:eyes: keep tabs on Chicago city council,https://chicago.councilmatic.org/,4,11,Python,2015-05-19T20:09:47Z,2016-12-05T21:21:08Z
+docs.opencivicdata.org,:pencil: Open Civic Data project documentation,http://opencivicdata.readthedocs.org,0,1,Python,2015-05-21T21:20:06Z,2015-10-21T22:28:07Z
+edifice,,,0,1,Makefile,2015-05-26T15:50:31Z,2015-05-26T23:16:08Z
+python-legistar-scraper,Scrapes municipal data from Legistar websites,,0,0,Python,2015-06-15T17:09:46Z,2015-06-15T17:09:46Z
+elpc_bakken,Bakken well files PDF extraction,,1,0,HTML,2015-06-24T15:50:48Z,2015-08-11T18:10:05Z
+nyc-councilmatic,:eyes: a web app for keeping tabs on city council activity in New York City,http://nyc.councilmatic.org,24,7,Python,2015-06-24T15:57:01Z,2016-12-17T15:31:42Z
+million-dollar-blocks-analysis,public repo with analysis for the Chicago million dollar blocks project,,1,0,Python,2015-07-15T03:32:10Z,2016-04-18T19:21:47Z
+dedupe-geocoder, :round_pushpin: Demonstration of how dedupe might be used as geocoder,,6,4,Python,2015-08-11T21:44:56Z,2016-12-06T17:01:20Z
+site-launch-checklist,:ballot_box_with_check: A checklist of miscellaneous tasks to do before launching a public website.,,41,12,,2015-08-12T15:16:14Z,2016-12-13T18:50:02Z
+open-divisions,Collection of open municipal jurisdictions.,,0,0,,2015-08-27T21:26:45Z,2015-08-28T17:29:30Z
+fuzzycategory,Fuzzy Categorical Distances,,2,1,Python,2015-08-29T21:12:40Z,2015-09-29T00:47:28Z
+dedupe-variable-fuzzycategory,Dedupe Variable for Fuzzy Categories,,0,0,Python,2015-08-29T21:15:23Z,2015-08-29T21:17:02Z
+bubs,Zippy bubble chart app using Open States data,,0,0,JavaScript,2015-09-08T03:32:04Z,2016-11-01T18:01:11Z
+property-image-cache,:house: A Flask app to cache images from the Cook County Property info site,,0,0,Python,2015-09-10T21:32:51Z,2016-01-19T20:22:30Z
+scrapers_ca_app,Canadian legislative scrapers Django app,https://scrapers.herokuapp.com/,1,0,Python,2015-09-17T13:56:21Z,2016-05-04T20:47:24Z
+api.opencivicdata.org,:cloud: deployment stuff for api.opencivicdata.org,,1,2,CartoCSS,2015-09-18T16:34:27Z,2016-12-02T00:09:32Z
+lake-charles-la-directory,"Searchable Directory of Registered Businesses - City of Lake Charles, Louisiana",,0,0,JavaScript,2015-09-21T19:37:29Z,2016-09-08T14:48:59Z
+represent-boundaries,"A web API to geographic boundaries loaded from shapefiles, packaged as a Django app",http://represent.poplus.org/,0,0,Python,2015-09-21T20:02:30Z,2015-09-21T20:02:31Z
+ocd-division-ids,Open Civic Data Division IDs definition & canonical repository,,0,0,Ruby,2015-09-22T21:02:57Z,2016-11-23T16:22:10Z
+councilmatic-splash,:sweat_drops: Splash page for councilmatic.org,http://councilmatic.org,0,0,HTML,2015-09-24T19:48:59Z,2016-01-20T16:35:53Z
+stringcmp,String comparison functions from FEBRL,,4,1,Python,2015-09-26T15:37:41Z,2016-12-22T21:02:20Z
+django-councilmatic,:heartpulse: Django app providing core functions for *.councilmatic.org,http://councilmatic.org,11,11,JavaScript,2015-10-09T21:18:40Z,2016-12-02T00:09:51Z
+wv-eitc,:dollar: Invest in West Virginia Families - a statewide map showing EITC legislative impact,,0,1,JavaScript,2015-10-12T15:08:54Z,2016-04-06T19:23:00Z
+ihs-price-index-dev,dev site for IHS price index,,0,0,JavaScript,2015-11-11T22:57:27Z,2016-09-08T14:47:47Z
+ziphmm,Automatically exported from code.google.com/p/ziphmm,,0,0,C++,2015-11-26T18:32:08Z,2015-11-26T18:32:10Z
+council-flow,River visualiations for Chicago Legislation,,0,0,Python,2015-12-07T03:50:40Z,2016-08-12T16:20:17Z
+graphiqparser,custom corporation parser for Graphiq,,0,1,Python,2015-12-08T16:11:39Z,2016-03-24T14:58:29Z
+dedupe-variable-employer,,,0,0,Python,2015-12-10T18:29:30Z,2016-03-01T16:16:27Z
+snow_routes,,,0,0,,2015-12-12T00:04:18Z,2015-12-12T00:04:18Z
+pupa,framework for scraping legislative/government data,,0,0,Python,2015-12-16T18:06:23Z,2016-01-19T19:05:27Z
+python-opencivicdata-django,python utilities for Open Civic Data,,0,0,Python,2015-12-27T17:13:28Z,2016-02-02T15:18:28Z
+sunspots,Trends for Illinois Sunshine,,1,0,Python,2016-01-26T15:41:42Z,2016-08-04T02:17:49Z
+my-reps-pbp,Look up who represents you at various levels of government.,http://myreps.participatorybudgeting.org/,1,0,JavaScript,2016-02-11T19:27:47Z,2016-06-28T19:16:13Z
+councilmatic-starter-template,starter code & documentation for new councilmatic instances,,3,4,Python,2016-02-22T22:42:06Z,2016-07-18T19:43:04Z
+oeem-energy-datastore,Datastore for Open Energy Efficiency Meter,,0,0,Python,2016-03-15T15:12:29Z,2016-03-15T15:12:30Z
+rollcalls,Get roll call spreadsheets from Open States,,0,0,Python,2016-03-25T17:43:24Z,2016-09-06T18:33:52Z
+probableparsing,Common methods for probable parsers,,2,0,Python,2016-03-28T22:07:42Z,2016-08-02T18:50:26Z
+schema_matching,Notes for schema matching,,1,0,TeX,2016-04-05T19:41:55Z,2016-09-20T19:08:54Z
+abstention,NYC Abstainers,,0,0,Makefile,2016-04-05T23:12:54Z,2016-09-06T18:34:28Z
+python-crfsuite,A python binding for crfsuite,,0,0,Python,2016-04-08T16:06:30Z,2016-04-08T16:06:31Z
+crfsuite,CRFsuite: a fast implementation of Conditional Random Fields (CRFs),http://www.chokkan.org/software/crfsuite/,0,0,C++,2016-04-10T20:40:25Z,2016-04-10T20:40:26Z
+doublemetaphone,,,1,1,C++,2016-04-11T18:11:19Z,2016-04-11T18:24:17Z
+ihs-charts,interactive charts for DePaul Institute for Housing Studies,https://www.housingstudies.org/research-publications/state-of-housing/2016-state-rental-housing-cook-county/,0,0,HTML,2016-04-15T21:52:16Z,2016-10-24T18:40:14Z
+connect-chicago-locator,Search for and view information about places where you can use a computer for free in Chicago. Part of the Connect Chicago website.,locations.weconnectchicago.org,0,0,Ruby,2016-04-18T02:29:44Z,2016-04-18T02:29:45Z
+arrests,Chicago Police Arrests,,0,0,Python,2016-04-18T16:09:06Z,2016-04-19T18:47:43Z
+where-the-work-is,:briefcase: visualizing middle-skilled occupations in the uk,http://wheretheworkis.org/,0,0,JavaScript,2016-04-18T16:38:51Z,2016-09-08T14:48:08Z
+oversight,knitting together Chicago Justice Data,,1,0,,2016-04-18T18:43:37Z,2016-08-12T19:29:17Z
+google-analytics-lib,"Simple javascript file for adding Google Analytics to a site. Includes download, external link and email event tracking.",,0,1,JavaScript,2016-04-19T16:30:12Z,2016-04-19T16:30:13Z
+dedupe-variable-person,Dedupe variable for person names. just people. no companies.,,3,1,Python,2016-04-20T14:54:43Z,2016-10-06T10:06:10Z
+jail,Cook County Jail Scraper,,0,0,Python,2016-04-25T14:18:26Z,2016-04-25T14:19:33Z
+voterfile,Experiments with Voter Files,,0,0,,2016-05-02T20:54:59Z,2016-05-02T20:54:59Z
+fastcluster,See here: https://pypi.python.org/pypi/fastcluster,,0,0,C++,2016-05-03T22:48:29Z,2016-05-03T22:48:30Z
+scrapelib,a library for scraping things,http://scrapelib.readthedocs.org/en/latest/,2,0,Python,2016-05-11T15:23:20Z,2016-10-23T15:53:48Z
+illinois-sunshine,:sunny: Illinois Sunshine. Keep an eye on money in Illinois politics.,http://illinoissunshine.org/,2,0,HTML,2016-05-13T18:49:56Z,2016-08-17T14:43:51Z
+sra,Mirror of Security Risk Assessment Tool from HHS,,0,0,HTML,2016-05-17T17:26:52Z,2016-05-17T17:31:23Z
+my-reps,:busts_in_silhouette: Enter your address to find your elected representatives. Powered by the Google Civic Information API,http://myreps.datamade.us,11,7,JavaScript,2016-06-24T17:52:32Z,2016-12-19T19:19:22Z
+openness-project-nmid,The Openness Project - New Mexico In Depth Campaign Finance Explorer,,0,0,Python,2016-07-05T18:32:09Z,2016-11-04T17:11:10Z
+probation-resources-map,"Interactive, searchable map that helps people on probation find social, health, and cultural resources throughout Chicago",,2,0,JavaScript,2016-07-18T15:58:00Z,2016-12-01T16:26:45Z
+illinois-criminal-justice,Data extractions tools from Illinois State Reports on the Criminal Justice System,,2,0,Makefile,2016-07-19T16:40:54Z,2016-07-19T20:03:07Z
+chicagojusticeproject,Copy of chicagojusticeproject.org,,0,0,,2016-08-01T22:11:41Z,2016-08-01T22:11:41Z
+jekyll-html-hook,:anchor: Webhook listener for deploying Jekyll or static HTML sites,,2,0,Python,2016-08-04T15:11:29Z,2016-10-05T02:30:43Z
+pyesridump,Scrapes an ESRI MapServer REST endpoint to spit out more generally-usable geodata.,,0,0,Python,2016-08-21T14:11:24Z,2016-08-21T14:11:25Z
+dot-scrape,Library for scraping dot net sites,,0,0,,2016-08-31T15:42:47Z,2016-08-31T15:42:47Z
+wabbit_wappa,Wabbit Wappa is a full-featured Python wrapper for the Vowpal Wabbit machine learning utility.,,0,0,Python,2016-09-11T14:24:34Z,2016-09-11T14:24:35Z
+cps-data,"Repository of data on the Chicago Public Schools and District, complement to https://github.com/datamade/school-report-cards",,1,0,Makefile,2016-09-15T15:49:09Z,2016-10-23T15:33:24Z
+dedupe-vowpal,Vowpal Wabbit Active Labeler for Dedupe,,1,0,Python,2016-09-23T21:24:43Z,2016-09-25T11:41:34Z
+CartoLib,A library for building interactive Carto maps.,,4,2,JavaScript,2016-10-05T21:47:56Z,2016-12-14T01:37:49Z
+census_area,Get Census Data from the API for arbitrary areas,,6,2,Python,2016-10-07T20:44:04Z,2016-12-14T01:38:05Z
+la-metro-councilmatic,An instance of councilmatic for LA Metro,,0,0,HTML,2016-10-10T18:52:05Z,2016-10-14T22:02:35Z
+illinois-ucr,Tools for working with Illinois crime reports.,,1,0,Python,2016-10-17T19:01:29Z,2016-11-23T17:22:18Z
+readme-template,📖 A template for documenting your code.,,0,0,,2016-10-24T15:13:44Z,2016-10-25T13:54:41Z
+census,A Python wrapper for the US Census API,,0,0,Python,2016-10-26T21:19:34Z,2016-10-26T21:19:35Z
+django-councilmatic-notifications,Notifications app for Django Councilmatic,,0,0,Python,2016-10-31T14:47:30Z,2016-10-31T14:47:54Z
+Levenshtein_search,Python search module for fast approximate string matching,,0,0,C,2016-11-08T15:56:27Z,2016-11-08T15:56:28Z
+python-opencivicdata-divisions,opencivicdata.divisions namespace pkg,,0,0,Python,2016-11-23T19:26:51Z,2016-11-23T19:26:53Z
+college-costs,A tool to help students weigh the costs and rewards of a college program. ,,0,0,CSS,2016-12-07T22:20:16Z,2016-12-07T22:20:18Z
+neveragaindottech.github.io,Source files for the neveragain.tech site,https://neveragain.tech,0,0,HTML,2016-12-13T20:46:50Z,2016-12-13T20:46:51Z
+readme-roundup,Organizing and polishing our repository Readmes,,0,0,Python,2016-12-23T04:49:04Z,2016-12-23T04:52:17Z

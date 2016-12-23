@@ -15,12 +15,14 @@ def get_readme_list():
               'created_at',
               'updated_at']
 
-    repos = requests.get(api_url)
-    if repos.status_code is 200:
-        for r in repos.json():
-            repos_list.append([r[key] for key in fields])
+    for page in range(0,3):
+        print("Page %s" % page)
+        repos = requests.get(api_url + "&page=" + str(page))
+        if repos.status_code is 200:
+            for r in repos.json():
+                repos_list.append([r[key] for key in fields])
 
-    print(repos_list)
+    print("Repo list created. Length: %s" % len(repos_list))
 
     outp = open('datamade_repos.csv', 'w')
     writer = csv.writer(outp)
