@@ -1,4 +1,4 @@
-# readme-roundup
+# repo-roundup
 
 python script that pulls a list of organization repos from the GitHub API into a CSV 
 
