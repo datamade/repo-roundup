@@ -8,15 +8,15 @@ def get_readme_list():
 
     fields = ['name',
               'html_url',
-              'description',
-              'homepage',
               'stargazers_count',
               'forks',
+              'description',
+              'homepage',
               'language',
               'created_at',
               'updated_at']
 
-    for page in range(0,3):
+    for page in range(1,3):
         print("Page %s" % page)
         repos = requests.get(api_url + "&page=" + str(page))
         if repos.status_code is 200:
