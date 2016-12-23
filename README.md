@@ -2,6 +2,12 @@
 
 python script that pulls a list of organization repos from the GitHub API into a CSV 
 
+## Dependencies
+
+* python 3.x
+* a GitHub account or organization
+* the [GitHub API v3](https://developer.github.com/v3/)
+
 ## Installation
 We recommend using [virtualenv](http://virtualenv.readthedocs.org/en/latest/virtualenv.html) and [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/install.html) for working in a virtualized development environment. [Read how to set up virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
 
@@ -21,6 +27,16 @@ workon readme-roundup
 ```
 
 ## Usage
+
+Edit `repos_to_csv.py` and add your organization settings:
+
+```python
+# change these things for your org
+org_name = 'your-org-name'
+pages_to_fetch = 2 # number of repos you have, divided by 100. kinda hack-y!
+```
+
+Then, run the script:
 
 ```bash
 python repos_to_csv.py
